@@ -34,11 +34,11 @@ The Random Forest algorithm was chosen for its high accuracy in predicting diabe
 
 2.<b>Scattered Plot</b>
 
-![scatter](di2.png)<br>
+![scatter](di3.png)<br>
 
 3.<b>Report Page</b>
 
-![report](di3.png)<br>
+![report](di2.png)<br>
 
 
 ## Requirements
