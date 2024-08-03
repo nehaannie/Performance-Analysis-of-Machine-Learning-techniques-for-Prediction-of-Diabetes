@@ -75,12 +75,12 @@ seaborn
 
 ## How It Works
 <br>
-**Data Loading:** The app loads a CSV file (diabetes.csv) containing the dataset used for training and testing the model.<br>
-**Model Training:** A Random Forest classifier is trained using the training dataset.<br>
-**User Input:** Users input their health data via sliders in the sidebar.<br>
-**Prediction:** The app predicts diabetes risk based on user input and displays results and visualizations.<br>
-**Visualization:** Scatter plots are used to compare the user's data with the dataset.<br>
-**WhatsApp Report:** Users can enter their name and phone number to receive a WhatsApp message with their checkup results.<br>
+-Data Loading: The app loads a CSV file (diabetes.csv) containing the dataset used for training and testing the model.<br>
+-Model Training: A Random Forest classifier is trained using the training dataset.<br>
+-User Input: Users input their health data via sliders in the sidebar.<br>
+-Prediction: The app predicts diabetes risk based on user input and displays results and visualizations.<br>
+-Visualization: Scatter plots are used to compare the user's data with the dataset.<br>
+-WhatsApp Report: Users can enter their name and phone number to receive a WhatsApp message with their checkup results.<br>
 
 ## Sending WhatsApp Reports
 To use the WhatsApp messaging feature, make sure to:<br>
