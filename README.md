@@ -28,15 +28,15 @@ Different parameters were tested for each model to determine their effectiveness
 The Random Forest algorithm was chosen for its high accuracy in predicting diabetes risk, making it suitable for timely and effective diabetes diagnosis and management. The Streamlit-based interface supports prompt interventions and better health outcomes by providing an accessible and interactive platform for diabetes checkups.
 
 ## Preview 
-1.The main page
+1.<b>The main page</b>
 
 ![main](di1.png)<br>
 
-2.Scattered Plot
+2.<b>Scattered Plot</b>
 
 ![scatter](di2.png)<br>
 
-3.Report Page
+3.<b>Report Page</b>
 
 ![report](di3.png)<br>
 
